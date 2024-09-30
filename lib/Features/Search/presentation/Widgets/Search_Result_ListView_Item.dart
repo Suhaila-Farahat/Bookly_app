@@ -9,7 +9,6 @@ import 'package:go_router/go_router.dart';
 class SearchResultListViewItem extends StatelessWidget {
   const SearchResultListViewItem({super.key, required this.bookModel});
 
-
   final BookModel bookModel;
 
   @override
